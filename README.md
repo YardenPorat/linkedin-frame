@@ -8,7 +8,7 @@ Now, you can create your own custom frames, adding a little more character to yo
 
 Use the image offset to center your image (and create your cubic frame)
 
-![example image](example.png)
+[![example image](example.png)](https://yardenporat.github.io/linkedin-frame/)
 
 You have full control over color (text and frame) and font-size.
 
