@@ -4,11 +4,11 @@ Not long ago LinkedIn added a feature that allows adding a frame to your profile
 
 Now, you can create your own custom frames, adding a little more character to your LinkedIn profile.
 
-### [Link to LinkedIn custom frame generator](https://yardenporat.github.io/linkedin-frame/)
+### [Link to LinkedIn custom frame generator](frame-generator.com/)
 
 Use the image offset to center your image (and create your cubic frame)
 
-[![example image](example.png)](https://yardenporat.github.io/linkedin-frame/)
+[![example image](example.png)](frame-generator.com/)
 
 You have full control over color (text and frame) and font-size.
 
