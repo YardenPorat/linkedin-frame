@@ -87,7 +87,11 @@
     />
 
     <script>
-      window.location.href = "https://www.frame-generator.com/";
+      const searchParams = new URLSearchParams(
+        window.location.search
+      ).toString();
+      window.location.href =
+        "https://www.frame-generator.com/?" + searchParams.toString();
     </script>
   </head>
   <body>
